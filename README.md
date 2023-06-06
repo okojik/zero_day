@@ -1,11 +1,6 @@
-Markdown
-
-This is my first coding as a software engineer
-
-First task
+This is my first school project
 
 * zero_day
 * git and remote origin
-- file README.md
+- README.md
 - Emacs
-
